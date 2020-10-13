@@ -1,5 +1,5 @@
 # edup-ep-wr2603
-Update firmware on Edup ep-wr2603 wireless router (manufactured cca 2012.)
+Update firmware on Edup ep-wr2603 wireless router (manufactured in 2012. by Spacetek as st-rw1305FN-NTP)
 
 ## Why?
 My router behaves strange, wifi part hangs after a random while.
@@ -23,16 +23,18 @@ http://www.edup.cn/dl/8/ep-wr2602/epwr2602.rar
 Upgrade went with success in my case. The only thing is that user interface is now in Chinese language.
 So i have to use translation tools as I do not understand one word.**
 
+So maybe this two models are same hardware?
 
 Upgrade at your own risk!
 
 ## Firmware versions
 
-Factory version of the firmware was v1.0.0 dated somewhere in 2012.
-Version of this wr2602 firmware is v1.0.1 dated 2013/11/21.
+Factory firmware version was v1.0.0 dated somewhere in 2012.
+
+Version of this firmware for wr2602 model is v1.0.1 dated 2013/11/21.
 
 
 ## Have I solved my problem?
 
-Don't know yet! Still testing.
+Don't know yet! Still testing but so far so good!
 
