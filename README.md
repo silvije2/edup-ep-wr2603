@@ -3,6 +3,7 @@ Update firmware on Edup ep-wr2603 wireless router (manufactured cca 2012.)
 
 ## Why?
 My router behaves strange, wifi part hangs after a random while.
+
 Hopefully it is a software error but firmware upgrade is nowhere to be found.
 If I cannot solve this problem it is going to the recycling yard, but lets give it a shot.
 Maybe it is hardware error but reflow gun did not help at all.
@@ -27,8 +28,9 @@ Upgrade at your own risk!
 
 ## Firmware versions
 
-Factory version of the firmware was 1.0.0 dated somewhere in 2012.
-Version of this wr2602 firmware is 
+Factory version of the firmware was v1.0.0 dated somewhere in 2012.
+Version of this wr2602 firmware is v1.0.1 dated 2013/11/21.
+
 
 ## Have I solved my problem?
 
