@@ -18,11 +18,10 @@ Download firmware image from http://www.edup.cn/support/xiazaizhongxin/ep-wr2602
 ```
 http://www.edup.cn/dl/8/ep-wr2602/epwr2602.rar
 ```
-<div class="text-white bg-red mb-2">
-It is firmware for completely different wifi router model! But it was most similar to ep-wr2603 so I gave it a shot.
+**It is firmware for completely different wifi router model! But it was most similar to ep-wr2603 so I gave it a shot.
 Upgrade went with success in my case. The only thing is that user interface is now in Chinese language.
-So i have to use translation tools as I do not understand one word.
-</div>
+So i have to use translation tools as I do not understand one word.**
+
 
 Upgrade at your own risk!
 
